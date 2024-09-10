@@ -1,5 +1,5 @@
 # Fala devs! 
-Me chamo Gabriel, desenvolvedor full-stack a 1 ano e meio. Venho com uma bagagem de Administrador tendo atuado 5 anos no SEBRAE-SP e posso dizer que me encontrei na programação, dinamismo, resolução de problemas e possibilidades infintas de criação.
+Meu nome é Gabriel, sou desenvolvedor full-stack com 1 ano e meio de experiência. Antes de mergulhar no mundo da programação, atuei por 5 anos como Administrador no SEBRAE-SP. Foi nessa jornada que descobri minha verdadeira paixão: a programação. O dinamismo, a resolução de problemas e as infinitas possibilidades de criação que a tecnologia oferece são o que mais me motivam e inspiram diariamente.
 ## Tecnologias
 ### Backend
 [![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
